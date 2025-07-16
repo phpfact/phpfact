@@ -1,102 +1,92 @@
-<h1 align="center">Hi there, I'm Sachin Sharma 👋</h1>
+<h1 align="center">Hi, I'm Sachin Sharma 👋</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suhasrkms&label=Profile%20Views&color=0e75b6&style=flat" alt="suhasrkms" />
+  <img src="https://komarev.com/ghpvc/?username=suhasrkms&label=Profile%20Views&color=0e75b6&style=flat" alt="GitHub Profile Views"/>
+</p>
+
+<p align="center">
+  💼 Senior PHP Developer | Backend Specialist | Laravel Architect  
+</p>
+
+<p align="center">
+  <a href="mailto:sachinphp@outlook.com">📧 sachinphp@outlook.com</a> &nbsp;|&nbsp;
+  <a href="https://stackoverflow.com/users/14259868/suhas-rkms">🧠 Stack Overflow</a> &nbsp;|&nbsp;
+  <a href="https://twitter.com/RkmsSuhas">🐦 Twitter</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I'm a **Senior PHP Developer** with **12+ years of experience** crafting scalable, high-performance web applications. I specialize in **Laravel**, **CodeIgniter**, **Yii2**, and **Node.js**, with expertise spanning backend logic, database optimization, RESTful APIs, and DevOps pipelines. I blend strong technical skills with mentoring and leadership, having trained teams and led projects across industries like eCommerce, EdTech, LegalTech, and Social Media.
+I'm a **Senior PHP Developer** with over **12 years of hands-on experience** building reliable, scalable, and high-performance web applications. I specialize in **Laravel**, **CodeIgniter**, **Yii**, and **Laravel Filament**, and I’m passionate about clean architecture, modular codebases, and developer productivity.
 
-> 💬 _“You are the only person on earth who can use your ability.”_
-
----
-
-## 🚀 Experience Snapshot
-
-### 🔸 **Sr. Backend Developer**  
-**Wetech Solution Pvt. Ltd.** – _Aug 2019 – Nov 2024 | Noida, India_  
-- Integrated **WebSockets in PHP/Laravel** and **Socket.IO in Node.js**
-- Developed scalable APIs using **Laravel, Yii2, CodeIgniter, and GraphQL**
-- Automated deployment via **CI/CD pipelines** and GitHub Actions  
-- Optimized **MySQL and MongoDB** for high-traffic applications  
-- Built **Laravel Filament admin panels** and mentored junior developers  
-
-### 🔸 **Sr. PHP Developer**  
-**Gnec Media Pvt. Ltd.** – _Dec 2017 – Jul 2019 | Noida, India_  
-- Built REST APIs, payment gateways (PayPal, Stripe, Razorpay), and 2FA  
-- Developed reusable Laravel packages and secure backend systems  
-- Collaborated with mobile teams for seamless integrations  
-
-### 🔸 **Web Developer Trainer**  
-**INT Computer Institute** – _Jan 2015 – Nov 2017 | Sonipat, India_  
-- Trained 100+ students in **frontend and backend development**  
-- Created course material, coding challenges, and projects  
+I thrive in fast-paced environments where backend stability meets frontend performance. My work spans across startups, agencies, and product-based companies, contributing to both client-facing platforms and internal admin systems.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Core Expertise
 
-| Category | Tools / Frameworks |
-|---------|--------------------|
-| **Languages** | PHP, JavaScript, C, C++, SQL |
-| **Frameworks** | Laravel, CodeIgniter, Yii2, Express.js |
-| **Frontend** | HTML5, CSS3, Bootstrap, jQuery |
-| **Database** | MySQL, MongoDB |
-| **DevOps** | Docker, Git, GitHub Actions, VPS (AWS/DigitalOcean) |
-| **Realtime** | WebSocket, Socket.IO |
-| **CMS** | WordPress |
-| **APIs** | RESTful Services, GraphQL |
-| **Cloud Services** | Firebase, SMTP, SMS Gateways (Twilio, Nexmo) |
+- ⚙️ **PHP / Laravel / Laravel Filament / CodeIgniter / Yii2**
+- 🧱 **Modular Architecture**, **RESTful APIs**, **Custom Admin Panels**
+- 🐳 **Docker**, **Git**, **Linux Server Management**
+- ☁️ **AWS/DigitalOcean**, **VPS Deployment**, **CI/CD Integration**
+- 🧩 **WordPress Development** for plugin customization and headless architecture
+- 🔌 **WebSockets**, **Socket.IO**, and **Real-time App Integration**
+- 🛠️ **MySQL & MongoDB**: Schema Design, Optimization, and Indexing
+- 📦 **API Integrations**: Payment Gateways, SMS/Email Providers, OAuth2
 
 ---
 
-## 📚 Education
+## 🏆 Career Highlights
 
-- 🎓 **BBA (Bachelor of Business Administration)**  
-  _South Point Technical Campus, 2016_  
-  – Leadership, case study analysis, marketing & finance foundations
-
-- 📘 **12th (Commerce)**  
-  _Shyam Memorial School, 2013_  
-  – Ranked top of class, strong grounding in business subjects
-
-- 📗 **10th (HBSE)**  
-  _S.M. Hindu Sr. Secondary School, 2012_  
-  – Top grades, first exposure to **C/C++**, leadership in sports and culture
+- ✅ Migrated large-scale CodeIgniter 3 systems to Laravel with zero downtime  
+- 🔄 Automated deployments and testing via Docker & GitHub Actions  
+- 📊 Built highly customizable dashboards using **Laravel Filament**  
+- 🛡️ Integrated secure authentication layers including 2FA and token-based APIs  
+- 🔄 Connected backend services to mobile apps via robust, scalable APIs  
+- 🔧 Developed reusable Laravel packages for internal toolkits  
+- 📈 Led architecture planning for eCommerce and legal-tech platforms
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhasrkms&show_icons=true&theme=radical" alt="stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhasrkms&layout=compact&theme=radical" alt="langs" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=suhasrkms&theme=radical" alt="streak" />
-</p>
-
----
-
-## 🤝 Connect with Me
+## 🛠️ Technologies I Work With
 
 <p align="left">
-  <a href="https://twitter.com/RkmsSuhas" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://stackoverflow.com/users/14259868/suhas-rkms" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/suhas_rkms" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCPj8ztcYe1D6SSuXPDpupeA" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="40" alt="CodeIgniter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original.svg" width="40" alt="Yii2" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" alt="WordPress" />
 </p>
 
 ---
 
-> ⚡ **Fun Fact:** I’m passionate about simplifying complex backend logic, automating boring tasks, and crafting admin panels that “just work.”
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suhasrkms&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhasrkms&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhasrkms&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+<p align="left">
+  <a href="mailto:sachinphp@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://twitter.com/RkmsSuhas"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/14259868/suhas-rkms"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+  <a href="https://www.youtube.com/channel/UCPj8ztcYe1D6SSuXPDpupeA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
+
+---
+
+> ✅ *I’m always open to collaborating on meaningful Laravel, Filament, or backend-focused projects. Let’s build something impactful.*
