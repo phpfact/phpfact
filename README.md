@@ -33,6 +33,16 @@ I thrive in fast-paced environments where backend stability meets frontend perfo
 - 🔌 **WebSockets**, **Socket.IO**, and **Real-time App Integration**
 - 🛠️ **MySQL & MongoDB**: Schema Design, Optimization, and Indexing
 - 📦 **API Integrations**: Payment Gateways, SMS/Email Providers, OAuth2
+- 🧪 **Testing**: PHPUnit, PestPHP, Postman, TDD, feature tests in Laravel.
+- 📈 **Performance**: Fast APIs with query optimization, Redis/Memcached, Laravel Horizon, load balancing, indexing.
+- 🧰 **Task Scheduling**: Laravel Scheduler, Queues, Horizon, Supervisor for background tasks.
+- 🛡️ **Security**: OWASP, Sanctum, Passport, 2FA, API rate limits, CSRF/XSS protection.
+- 🏗️ **Microservices**: Build microservices and API Gateways using Docker.
+- 🌐 **Frontend Basics**: Vue.js, Alpine.js, React for admin or small UI parts.
+- 📊 **Dashboards**: Filament Widgets, Chart.js, ApexCharts for reports and analytics.
+- 🧹 **Clean Code**: Pint, PHP CS Fixer, Larastan, pre-commit hooks for code quality.
+- 📄 **Documentation**: OpenAPI/Swagger docs, API Resources, project documentation.
+
 
 ---
 
@@ -50,40 +60,40 @@ I thrive in fast-paced environments where backend stability meets frontend perfo
 
 ## 🛠️ Technologies I Work With
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" alt="Laravel" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="40" alt="CodeIgniter" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original.svg" width="40" alt="Yii2" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" width="50" alt="PostgreSQL" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" width="50" alt="MongoDB" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" width="50" alt="Redis" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" alt="Docker" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" width="50" alt="GitHub" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="50" width="50" alt="DigitalOcean" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="50" width="50" alt="AWS" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="50" width="50" alt="Ubuntu" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="50" width="50" alt="Nginx" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="50" alt="HTML5" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="50" alt="CSS3" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" width="50" alt="Bootstrap" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" width="50" alt="TailwindCSS" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="50" alt="React" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" width="50" alt="NextJS" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" width="50" alt="NodeJS" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" width="50" alt="ExpressJS" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="50" width="50" alt="Apache Kafka" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" width="50" alt="Dart" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" width="50" alt="Flutter" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" alt="WordPress" style="margin: 5px;" />
+  <img src="./assets/php.svg" width="40" alt="PHP" style="margin: 5px;" />
+  <img src="./assets/laravel.svg" width="40" alt="Laravel" style="margin: 5px;" />
+  <img src="./assets/codeigniter.svg" width="40" alt="CodeIgniter" style="margin: 5px;" />
+  <img src="./assets/yii.svg" width="40" alt="Yii2" style="margin: 5px;" />
+  <img src="./assets/mysql.svg" width="40" alt="MySQL" style="margin: 5px;" />
+  <img src="./assets/postgresql.svg" height="50" width="50" alt="PostgreSQL" style="margin: 5px;" />
+  <img src="./assets/mongodb.svg" height="50" width="50" alt="MongoDB" style="margin: 5px;" />
+  <img src="./assets/redis.svg" height="50" width="50" alt="Redis" style="margin: 5px;" />
+  <img src="./assets/docker.svg" width="40" alt="Docker" style="margin: 5px;" />
+  <img src="./assets/git.svg" width="40" alt="Git" style="margin: 5px;" />
+  <img src="./assets/github.svg" height="50" width="50" alt="GitHub" style="margin: 5px;" />
+  <img src="./digitalocean.svg" height="50" width="50" alt="DigitalOcean" style="margin: 5px;" />
+  <img src="./aws.svg" height="50" width="50" alt="AWS" style="margin: 5px;" />
+  <img src="./assets/linux.svg" width="40" alt="Linux" style="margin: 5px;" />
+  <img src="./assets/ubuntu.svg" height="50" width="50" alt="Ubuntu" style="margin: 5px;" />
+  <img src="./assets/nginx.svg" height="50" width="50" alt="Nginx" style="margin: 5px;" />
+  <img src="./assets/javascript.svg" width="40" alt="JavaScript" style="margin: 5px;" />
+  <img src="./assets/html5.svg" height="50" width="50" alt="HTML5" style="margin: 5px;" />
+  <img src="./assets/css3.svg" height="50" width="50" alt="CSS3" style="margin: 5px;" />
+  <img src="./assets/bootstrap.svg" height="50" width="50" alt="Bootstrap" style="margin: 5px;" />
+  <img src="./assets/tailwindcss.svg" height="50" width="50" alt="TailwindCSS" style="margin: 5px;" />
+  <img src="./assets/react.svg" height="50" width="50" alt="React" style="margin: 5px;" />
+  <img src="./assets/nextjs.svg" height="50" width="50" alt="NextJS" style="margin: 5px;" />
+  <img src="./assets/nodejs.svg" height="50" width="50" alt="NodeJS" style="margin: 5px;" />
+  <img src="./assets/express.svg" height="50" width="50" alt="ExpressJS" style="margin: 5px;" />
+  <img src="./assets/apachekafka.svg" height="50" width="50" alt="Apache Kafka" style="margin: 5px;" />
+  <img src="./assets/dart.svg" height="50" width="50" alt="Dart" style="margin: 5px;" />
+  <img src="./assets/flutter.svg" height="50" width="50" alt="Flutter" style="margin: 5px;" />
+  <img src="./assets/wordpress.svg" width="40" alt="WordPress" style="margin: 5px;" />
 </p>
-
 ---
 
-## 📈 GitHub Analytics
+<!--
+ ## 📈 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suhasrkms&show_icons=true&theme=tokyonight" width="48%" />
@@ -93,6 +103,7 @@ I thrive in fast-paced environments where backend stability meets frontend perfo
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhasrkms&theme=tokyonight" />
 </p>
+-->
 
 ---
 
