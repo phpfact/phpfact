@@ -9,8 +9,8 @@
 
 <p align="center">
   <a href="mailto:sachinphp@outlook.com">📧 sachinphp@outlook.com</a> &nbsp;|&nbsp;
-  <a href="https://stackoverflow.com/users/14259868/suhas-rkms">🧠 Stack Overflow</a> &nbsp;|&nbsp;
-  <a href="https://twitter.com/RkmsSuhas">🐦 Twitter</a>
+  <a href="https://stackoverflow.com/users/22535780/php-fact">🧠 Stack Overflow</a> &nbsp;|&nbsp;
+  <a href="https://x.com/phpfact">🐦 Twitter</a>
 </p>
 
 ---
@@ -110,21 +110,29 @@ I thrive in fast-paced environments where backend stability meets frontend perfo
 ## 🌐 Let's Connect
 
 <p align="left">
-  <a href="mailto:sachinphp@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/RkmsSuhas"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://stackoverflow.com/users/14259868/suhas-rkms"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
-  <a href="https://www.youtube.com/channel/UCPj8ztcYe1D6SSuXPDpupeA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-    <a href="https://www.instagram.com/dahiya_manish_0944/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="mailto:sachinphp@outlook.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/manish-dahiya-99a174280/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://x.com/phpfact" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://stackoverflow.com/users/22535780/php-fact" target="_blank">
+  <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@phpfact" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+    <a href="https://www.instagram.com/phpfact" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sachin-sharma-1b4012195/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
 </p>
 
 ###
 
-<img src="https://raw.githubusercontent.com/manishdahiya00/manishdahiya00/output/snake.svg" alt="Snake animation" />
+<img src="./assets/snake.svg" alt="Snake animation" />
 
 ###
 
