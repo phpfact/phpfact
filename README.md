@@ -71,8 +71,8 @@ I thrive in fast-paced environments where backend stability meets frontend perfo
   <img src="./assets/docker.svg" width="40" alt="Docker" style="margin: 5px;" />
   <img src="./assets/git.svg" width="40" alt="Git" style="margin: 5px;" />
   <img src="./assets/github.svg" height="50" width="50" alt="GitHub" style="margin: 5px;" />
-  <img src="./digitalocean.svg" height="50" width="50" alt="DigitalOcean" style="margin: 5px;" />
-  <img src="./aws.svg" height="50" width="50" alt="AWS" style="margin: 5px;" />
+  <img src="./assets/digitalocean.svg" height="50" width="50" alt="DigitalOcean" style="margin: 5px;" />
+  <img src="./assets/aws.svg" height="50" width="50" alt="AWS" style="margin: 5px;" />
   <img src="./assets/linux.svg" width="40" alt="Linux" style="margin: 5px;" />
   <img src="./assets/ubuntu.svg" height="50" width="50" alt="Ubuntu" style="margin: 5px;" />
   <img src="./assets/nginx.svg" height="50" width="50" alt="Nginx" style="margin: 5px;" />
