@@ -132,7 +132,11 @@ I thrive in fast-paced environments where backend stability meets frontend perfo
 
 ###
 
-<img src="./assets/snake.svg" alt="Snake animation" />
+<!--
+    <img src="./assets/snake.svg" alt="Snake animation" />
+-->
+
+<img src="./assets/pacman.svg" alt="pacman animation" />
 
 ###
 
