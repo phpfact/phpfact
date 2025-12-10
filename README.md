@@ -59,37 +59,44 @@ I thrive in fast-paced environments where backend stability meets frontend perfo
 ---
 
 ## 🛠️ Technologies I Work With
-<p align="left">
-  <img src="./assets/php.svg" width="40" alt="PHP" style="margin: 5px;" />
-  <img src="./assets/laravel.svg" width="40" alt="Laravel" style="margin: 5px;" />
-  <img src="./assets/codeigniter.svg" width="40" alt="CodeIgniter" style="margin: 5px;" />
-  <img src="./assets/yii.svg" width="40" alt="Yii2" style="margin: 5px;" />
-  <img src="./assets/mysql.svg" width="40" alt="MySQL" style="margin: 5px;" />
-  <img src="./assets/postgresql.svg" height="50" width="50" alt="PostgreSQL" style="margin: 5px;" />
-  <img src="./assets/mongodb.svg" height="50" width="50" alt="MongoDB" style="margin: 5px;" />
-  <img src="./assets/redis.svg" height="50" width="50" alt="Redis" style="margin: 5px;" />
-  <img src="./assets/docker.svg" width="40" alt="Docker" style="margin: 5px;" />
-  <img src="./assets/git.svg" width="40" alt="Git" style="margin: 5px;" />
-  <img src="./assets/github.svg" height="50" width="50" alt="GitHub" style="margin: 5px;" />
-  <img src="./assets/digitalocean.svg" height="50" width="50" alt="DigitalOcean" style="margin: 5px;" />
-  <img src="./assets/aws.svg" height="50" width="50" alt="AWS" style="margin: 5px;" />
-  <img src="./assets/linux.svg" width="40" alt="Linux" style="margin: 5px;" />
-  <img src="./assets/ubuntu.svg" height="50" width="50" alt="Ubuntu" style="margin: 5px;" />
-  <img src="./assets/nginx.svg" height="50" width="50" alt="Nginx" style="margin: 5px;" />
-  <img src="./assets/javascript.svg" width="40" alt="JavaScript" style="margin: 5px;" />
-  <img src="./assets/html5.svg" height="50" width="50" alt="HTML5" style="margin: 5px;" />
-  <img src="./assets/css3.svg" height="50" width="50" alt="CSS3" style="margin: 5px;" />
-  <img src="./assets/bootstrap.svg" height="50" width="50" alt="Bootstrap" style="margin: 5px;" />
-  <img src="./assets/tailwindcss.svg" height="50" width="50" alt="TailwindCSS" style="margin: 5px;" />
-  <img src="./assets/react.svg" height="50" width="50" alt="React" style="margin: 5px;" />
-  <img src="./assets/nextjs.svg" height="50" width="50" alt="NextJS" style="margin: 5px;" />
-  <img src="./assets/nodejs.svg" height="50" width="50" alt="NodeJS" style="margin: 5px;" />
-  <img src="./assets/express.svg" height="50" width="50" alt="ExpressJS" style="margin: 5px;" />
-  <img src="./assets/apachekafka.svg" height="50" width="50" alt="Apache Kafka" style="margin: 5px;" />
-  <img src="./assets/dart.svg" height="50" width="50" alt="Dart" style="margin: 5px;" />
-  <img src="./assets/flutter.svg" height="50" width="50" alt="Flutter" style="margin: 5px;" />
-  <img src="./assets/wordpress.svg" width="40" alt="WordPress" style="margin: 5px;" />
-</p>
+
+## 🛠️ Technical Expertise
+
+**Frontend**
+
+<img src="./assets/html5.svg" alt="HTML5" width="42" height="42"/> &nbsp;
+<img src="./assets/css3.svg" alt="CSS3" width="42" height="42"/> &nbsp;
+<img src="./assets/javascript.svg" alt="JavaScript" width="42" height="42"/> &nbsp;
+<img src="./assets/react.svg" alt="React" width="42" height="42"/> &nbsp;
+<img src="./assets/bootstrap.svg" alt="React" width="42" height="42"/> &nbsp;
+<img src="./assets/tailwindcss.svg" alt="Tailwind" width="42" height="42"/>
+
+**Backend**
+
+<img src="./assets/nodejs.svg" alt="Node.js" width="42" height="42"/> &nbsp;
+<img src="./assets/express.svg" alt="Express" width="42" height="42"/> &nbsp;
+<img src="./assets/php.svg" alt="PHP" width="42" height="42"/> &nbsp;
+<img src="./assets/laravel.svg" alt="laravel" width="42" height="42"/> &nbsp;
+<img src="./assets/codeigniter.svg" alt="codeigniter" width="42" height="42"/> &nbsp;
+<img src="./assets/yii.svg" alt="yii" width="42" height="42"/>
+
+**Databases**
+
+<img src="./assets/mysql.svg" alt="MySQL" width="42" height="42"/> &nbsp;
+<img src="./assets/postgresql.svg" alt="PostgreSQL" width="42" height="42"/> &nbsp;
+<img src="./assets/mongodb.svg" alt="MongoDB" width="42" height="42"/> &nbsp;
+<img src="./assets/redis.svg" alt="Redis" width="42" height="42"/>
+
+**Infrastructure & DevOps**
+
+<img src="./assets/docker.svg" alt="Docker" width="42" height="42"/> &nbsp;
+<img src="./assets/github.svg" alt="Github" width="42" height="42"/> &nbsp;
+<img src="./assets/aws.svg" alt="AWS" width="42" height="42"/> &nbsp;
+<img src="./assets/digitalocean.svg" alt="DigitalOcean" width="42" height="42"/> &nbsp;
+<img src="./assets/linux.svg" alt="Linux" width="42" height="42"/> &nbsp;
+<img src="./assets/ubuntu.svg" alt="Ubuntu" width="42" height="42"/>
+
+<br/>
 ---
 
 <!--
