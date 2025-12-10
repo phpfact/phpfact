@@ -59,9 +59,6 @@ I thrive in fast-paced environments where backend stability meets frontend perfo
 ---
 
 ## 🛠️ Technologies I Work With
-
-## 🛠️ Technical Expertise
-
 **Frontend**
 
 <img src="./assets/html5.svg" alt="HTML5" width="42" height="42"/> &nbsp;
